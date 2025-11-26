@@ -34,10 +34,6 @@ Here’s what I found buried in the data:
 
 ## 📈 See the Story Unfold
 
-[![Explore the Interactive Dashboard](https://img.shields.io/badge/Explore_the_Story-Interactive_Dashboard-blue?style=for-the-badge&logo=tableau)]([https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes])
-
-## 📈 See the Story Unfold
-
 [![Airbnb Bangkok Dashboard Preview](https://img.shields.io/badge/📊_Interactive_Dashboard-Tableau-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes)
 
 *Click the button above to explore the interactive Tableau dashboard!*
@@ -56,8 +52,6 @@ Want to see how I did it? The clues are all here.
 # Clone the repository
 git clone https://github.com/[liftahasaz11]/airbnb-data-treasure-hunt.git
 
-# Install the required tools
-pip install -r requirements.txt
 
 # Launch the analysis notebook
 jupyter notebook analysis_notebook.ipynb
