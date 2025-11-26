@@ -27,7 +27,7 @@ I broke down the mystery into five key areas:
 
 Here’s what I found buried in the data:
 
-*   **The Location Tax:** Listings in Downtown aren't just more expensive—they can command a **40% price premium**. But the real secret? Neighborhoods like Riverside had **85% occupancy** with less competition.
+*   **The Hot & Cold Spot:** Listings in Downtown aren't just more expensive—they can command a **40% price premium**. But the real secret? Neighborhoods like Riverside had **85% occupancy** with less competition.
 *   **The Host Halo Effect:** Being a Superhost is like having a superpower. It directly translates to a **25% higher nightly rate** and more frequent bookings.
 *   **The Pricing Paradox:** The most common pricing mistake? **Under-pricing.** We found a clear "revenue sweet spot" that many hosts are missing.
 *   **The Review Rosetta Stone:** Decoding negative reviews showed that **"Cleanliness" and "Communication"** were the kingmakers (or breakers) of a listing's reputation.
@@ -35,6 +35,16 @@ Here’s what I found buried in the data:
 ## 📈 See the Story Unfold
 
 [![Explore the Interactive Dashboard](https://img.shields.io/badge/Explore_the_Story-Interactive_Dashboard-blue?style=for-the-badge&logo=tableau)]([https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes])
+
+## 📈 See the Story Unfold
+
+[![Airbnb Bangkok Dashboard Preview](https://img.shields.io/badge/📊_Interactive_Dashboard-Tableau-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes)
+
+*Click the button above to explore the interactive Tableau dashboard!*
+
+
+[![Dashboard Screenshot](<img width="1894" height="994" alt="Screenshot 2025-11-26 100513" src="https://github.com/user-attachments/assets/0b88d04d-f8fb-4803-a185-04ff632b5667" />
+)](https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes) -->
 
 *The dashboard brings these insights to life. Go on, click a neighborhood and see what happens!*
 
@@ -44,7 +54,7 @@ Want to see how I did it? The clues are all here.
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/airbnb-data-treasure-hunt.git
+git clone https://github.com/[liftahasaz11]/airbnb-data-treasure-hunt.git
 
 # Install the required tools
 pip install -r requirements.txt
