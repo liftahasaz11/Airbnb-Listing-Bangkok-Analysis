@@ -43,9 +43,9 @@ Here’s what I found buried in the data:
 
 *The dashboard brings these insights to us. Go on, click a neighborhood and see what happens!*
 
-## 📈 Slide Story with Full Insights
+## 🎯 "Decoding Airbnb Performance: A Data-Driven Business Analysis"
 
-[![Airbnb Bangkok Slides](https://img.shields.io/badge/📊_Slide-Google-orange?style=for-the-badge&logo=GoogleSlide)](https://docs.google.com/presentation/d/1EvGIfp-HY10ZMhkjE20C5Sl6T8X0uWA0/edit?usp=drive_link&ouid=113877408036269315301&rtpof=true&sd=true)
+[![Airbnb Bangkok Slides](https://img.shields.io/badge/💡_Slide-Google-orange?style=for-the-badge&logo=GoogleSlide)](https://docs.google.com/presentation/d/1EvGIfp-HY10ZMhkjE20C5Sl6T8X0uWA0/edit?usp=drive_link&ouid=113877408036269315301&rtpof=true&sd=true)
 
 *Click the button above to explore the full business insights!*
 
