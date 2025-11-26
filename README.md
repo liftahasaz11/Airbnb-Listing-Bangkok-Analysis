@@ -42,7 +42,7 @@ Here’s what I found buried in the data:
 [![Dashboard Screenshot](<img width="1894" height="994" alt="Screenshot 2025-11-26 100513" src="https://github.com/user-attachments/assets/0b88d04d-f8fb-4803-a185-04ff632b5667" />
 )](https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes) -->
 
-*The dashboard brings these insights to life. Go on, click a neighborhood and see what happens!*
+*The dashboard brings these insights to us. Go on, click a neighborhood and see what happens!*
 
 ## 🔍 For the Curious: Reproduce the Analysis
 
