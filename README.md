@@ -38,9 +38,18 @@ Here’s what I found buried in the data:
 
 *Click the button above to explore the interactive Tableau dashboard!*
 
-
 [![Dashboard Screenshot](<img width="1894" height="994" alt="Screenshot 2025-11-26 100513" src="https://github.com/user-attachments/assets/0b88d04d-f8fb-4803-a185-04ff632b5667" />
 )](https://public.tableau.com/app/profile/lieftha.hasaz/viz/AirBnbBangkokListingsOverview/AirBnbBangkokListingsOverview?publish=yes) -->
 
 *The dashboard brings these insights to us. Go on, click a neighborhood and see what happens!*
+
+## 📈 Slide Story with Full Insights
+
+[![Airbnb Bangkok Slides](https://img.shields.io/badge/📊_Slide-Google-orange?style=for-the-badge&logo=GoogleSlide)](https://docs.google.com/presentation/d/1EvGIfp-HY10ZMhkjE20C5Sl6T8X0uWA0/edit?usp=drive_link&ouid=113877408036269315301&rtpof=true&sd=true)
+
+*Click the button above to explore the full business insights!*
+
+
+
+
 
