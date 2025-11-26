@@ -44,14 +44,3 @@ Here’s what I found buried in the data:
 
 *The dashboard brings these insights to us. Go on, click a neighborhood and see what happens!*
 
-## 🔍 For the Curious: Reproduce the Analysis
-
-Want to see how I did it? The clues are all here.
-
-```bash
-# Clone the repository
-git clone https://github.com/[liftahasaz11]/airbnb-data-treasure-hunt.git
-
-
-# Launch the analysis notebook
-jupyter notebook analysis_notebook.ipynb
